@@ -1,16 +1,16 @@
 <resources>
 
     <!-- 应用名称 -->
-    <string name="app_name">Material WeCenter</string>
+    <string name="app_name">蓝纹社区</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
     <!--Login Action-->
-    <string name="edit_username">请输入精弘通行证</string>
-    <string name="edit_password">请输入密码</string>
-    <string name="button_login">登录</string>
-    <string name="loginning">登录中。。。</string>
+    <string name="edit_username">输入蓝纹驾校驾驶证(UID)</string>
+    <string name="edit_password">交出你的密码</string>
+    <string name="button_login">开车！</string>
+    <string name="loginning">尝试驾驶到蓝纹驾校中……</string>
 
     <!--Post activity-->
     <string name="edit_tile">标题</string>
@@ -26,13 +26,13 @@
     <string name="settings">设置</string>
     <string name="title_activity_user">UserActivity</string>
     <string name="title_activity_login">LoginActivity</string>
-    <string name="title_activity_post">发布问题</string>
+    <string name="title_activity_post">发布帖子</string>
 
     <!--Settings-->
     <string name="about">关于</string>
     <string name="version">版本号</string>
     <string name="contributor">贡献者</string>
-    <string name="contributors">ZhangZhenghao\nwindness97\nDartick</string>
+    <string name="contributors">APP制作\Moe2 Studio\\Bohan - APP开发\\Bowen - 服务器开发\\感谢下列开发者的Material WeCenter项目\使我们的APP更快的开发出来\ZhangZhenghao\nwindness97\nDartick</string>
     <string name="github_repo">GitHub项目地址</string>
     <string name="github_url">https://github.com/ZhangZhenghao/Material-WeCenter</string>
 
@@ -41,7 +41,7 @@
     <string name="title_activity_lauch">LauchActivity</string>
     <string name="title_activity_test">TestActivity</string>
 
-    <string name="item_footer">╮(╯3╰)╭再也找不到更多的了</string>
+    <string name="item_footer">⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄再也找不到更多的了</string>
 
     <string-array name="spin_term">
         <item>1999/2000(1)</item>
