@@ -82,7 +82,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
             // 显示登陆错误原因
             String errmsg;
             if (response == null)
-                errmsg = "登录时发生错误";
+                errmsg = "翻车了！赛道太滑发生错误，请检查设置后登录";
             else
                 errmsg = response.getErr();
             Snackbar.with(getApplicationContext())
