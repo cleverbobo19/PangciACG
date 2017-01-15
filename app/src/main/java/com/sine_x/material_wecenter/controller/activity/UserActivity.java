@@ -87,9 +87,9 @@ public class UserActivity extends AppCompatActivity {
                     case 0:
                         return "个人资料";
                     case 1:
-                        return "提问";
+                        return "发车";
                     case 2:
-                        return "回答";
+                        return "回帖";
                 }
                 return "";
             }
