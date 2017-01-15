@@ -5,7 +5,7 @@ public class Config {
     // 应用配置
 
     // 网站目录
-    private static String HOST_NAME = "http://wecenter.dev.hihwei.com/";
+    private static String HOST_NAME = "http://moetm.com/cn/";
     // 每页问题数量
     public static int ITEM_PER_PAGE = 20;
     // 设置网络超时时间
